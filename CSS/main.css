@@ -46,7 +46,4 @@ a {
     padding-top: 70px;
     padding-bottom: 70px;
   }
-  sub {
-    color: var(--secondary-color);
-  }
 }
